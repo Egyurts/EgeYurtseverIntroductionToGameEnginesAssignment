@@ -5,7 +5,7 @@ using UnityEngine;
 public class AAAAA : MonoBehaviour
 {
     
-    public float speed = 0.5f;
+    public float speed = 11f;
     void Start()
     {
         
